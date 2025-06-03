@@ -1,6 +1,7 @@
 # Demo
 
-[Aquí](https://app.netlify.com/projects/veterinaria-pacientes/overview) puedes ver el proyecto
+[Aquí](https://veterinaria-pacientes.netlify.app/) puedes ver el proyecto
+
 
 # React + TypeScript + Vite
 
